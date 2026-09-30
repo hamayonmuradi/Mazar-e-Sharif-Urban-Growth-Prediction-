@@ -42,9 +42,23 @@ area by 2033.
 - TerrSet / CA-Markov
 - ENVI
 
-## Maps
+## Urban Growth Maps
 
+### LULC Maps
 
+![Mazar-e-Sharif Urban Growth 2003](LULC maps.png)
+
+### LULC Changes
+
+![Mazar-e-Sharif Urban Growth 2013](LULC change.png)
+
+### LULC Changes Charts
+
+![Mazar-e-Sharif Urban Growth 2023](LULC change chart.png)
+
+### 2033 Prediction
+
+![Mazar-e-Sharif Urban Growth Prediction 2033](2033 prediction map.png)
 
 ## Limitations
 
