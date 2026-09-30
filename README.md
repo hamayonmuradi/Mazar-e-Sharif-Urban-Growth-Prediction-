@@ -46,15 +46,15 @@ area by 2033.
 
 ### LULC Maps
 
-![Mazar-e-Sharif Urban Growth 2003](LULC_maps.png)
+![Mazar-e-Sharif LULC](LULC_maps.png)
 
 ### LULC Changes
 
-![Mazar-e-Sharif Urban Growth 2013](LULC_change.png)
+![Mazar-e-Sharif Urban LULC Changes](LULC_change.png)
 
 ### LULC Changes Charts
 
-![Mazar-e-Sharif Urban Growth 2023](LULC_change_chart.png)
+![Mazar-e-Sharif LULC Changes Chart](LULC_change_chart.png)
 
 ### 2033 Prediction
 
